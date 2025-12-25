@@ -84,12 +84,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="120.unifi" ch-number="120" group-title="" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png",120 Degup
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
-https://spoo.me/🫃🤞❤️‍🔥
-
 #EXTINF:-1 tvg-id="SUKANRTM.mana2" ch-number="121" tvg-logo="https://rtm-images.glueapi.io/120x0/live_channel/sukan_Trans.png" group-logo="" group-title="",121 Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 

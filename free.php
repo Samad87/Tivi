@@ -396,6 +396,10 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 tvg-id="603.astro"  ch-number="603"   tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/411_144.png" group-title="",603 Astro Tutor TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88}
+#EXTINF:-1 tvg-id="611.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png" group-title="", ceria
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd|user-agent=Mozilla/5.0 (Linux; Android 10; ZXCVY Build/MN; DRAGON) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6700.180 Mobile
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash

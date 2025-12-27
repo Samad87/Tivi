@@ -81,23 +81,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=htt
 #EXTINF:-1 tvg-id="122.astro"  ch-number="122"  tvg-logo="https://pictr.com/images/2024/01/04/EXDx1q.png" group-logo="" group-title="",122 TVS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
-
 #EXTINF:-1 tvg-id="Awesome" ch-number="123" tvg-name="" tvg-logo="https://res.cloudinary.com/dcpdjee3i/image/upload/v1759309786/Awesome_TV_Malaysia_rvqjoe.png" group-title="",123 Awesome TV
 http://216.132.70.171:8080/live/vip_rhfmytw3/S1A5heso/2708.ts?channel=awesome
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581}
-#EXTINF:-1 tvg-id="113.unifi" ch-number="124" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="",124 Salam HD
-https://unifi-live27.secureswiftcontent.com/UnifiHD/live32.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="TV6" ch-number="126" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/tv6_Trans.png" group-title="",126 TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #EXTINF:-1 tvg-id="JomNgaji" ch-number="130"   tvg-logo="https://res.cloudinary.com/dcpdjee3i/image/upload/v1759311239/Sooka_Jom_Ngaji_a1ceke.png" group-title="",130 Jom Ngaji
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -119,7 +111,6 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1  tvg-id="DramaHotpot" ch-number="133"  tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png",133 Drama Hotpot
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -139,8 +130,6 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
-
-
 #EXTINF:-1 tvg-id="147.astro" ch-number="147" group-logo="" group-title="" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",147 NTV7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
@@ -153,15 +142,12 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live06.mpd
 #EXTINF:-1 tvg-id="108.unifi" ch-number="148" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-logo="" group-title="",148 8TV 
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
 
-
-
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML)"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="201.astro" ch-number="201" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="",201 Vaanavil
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
  
-
 #EXTINF:-1 tvg-id="202.astro"  ch-number="202"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="",202 Astro Vinmeen
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -192,10 +178,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 #EXTINF:-1 tvg-id="223.astro" ch-number="223" tvg-name="Zee Tamil HD" group-title="" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 ZEE TAMIL 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
-
-
-
- 
 
 #EXTINF:-1 tvg-id="105" ch-number="254"  tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-logo="" group-title="",254 Vasantham
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -233,8 +215,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 #EXTINF:-1 tvg-id="309.astro"  ch-number="309" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="" group-title="",309 Celestial Movies 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
-
-
 #EXTINF:-1 tvg-id="319.astro" ch-number="319" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",319 TVB Xing He
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
@@ -253,7 +233,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b}
 #EXTINF:-1 tvg-id="333.astro" ch-number="333" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-logo="" group-title="",333 Hua Hee Dai
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
-
 
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML)"}
 #EXTINF:-1 tvg-id="392.astro" ch-number="392"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="",392 KBS World
@@ -279,16 +258,11 @@ https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="395.astro" ch-number="395" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="",395 tvN
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
-
-
-
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML)"}
 #EXTINF:-1 tvg-id="396.astro" ch-number="396"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="",396 K+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -343,7 +317,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
-
 
 
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML)"}
@@ -476,7 +449,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
 
-
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML)"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce}
@@ -517,8 +489,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="" group-logo="" tvg-id="5252" ch-number="708" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",708 Food Network
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
-
-
 
 
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML)"}

@@ -338,19 +338,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 
 
-
-#EXTINF:-1 tvg-id="603" ch-number="416"  tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png" group-title="",416 HBO Signature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd|referrer=https://www.indihometv.com
-
-
-
-
-
-
-
-
-
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML)"}
 #EXTINF:-1 tvg-id="416.astro" ch-number="417" tvg-name="tvN Movies HD" group-title="" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",417 tvN Movies 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

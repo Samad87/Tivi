@@ -14,8 +14,7 @@ if (
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/animation/2023/03/24/18/16/18-16-28-807_512.gif" group-title="",UAI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://youtube.livetivi.workers.dev?id=UC-eO7wPzP75WCJCh-LT5P3Q
-
+#
 
 
 

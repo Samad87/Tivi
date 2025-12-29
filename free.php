@@ -11,6 +11,10 @@ if (
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml, https://raw.githubusercontent.com/dbghelp/Test-EPG/refs/heads/main/test_epg.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/mana2.xml,https://raw.githubusercontent.com/dbghelp/Singtel-TV-EPG/refs/heads/main/singtel.xml,https://raw.githubusercontent.com/tv1973/xmltv_uk/refs/heads/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/singtel.xml,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml" refresh="1440"  " billed-msg=" FREE2026"
 
 
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/animation/2023/03/24/18/16/18-16-28-807_512.gif" group-title="",UAI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://youtube.livetivi.workers.dev?id=UC-eO7wPzP75WCJCh-LT5P3Q
 
 
 

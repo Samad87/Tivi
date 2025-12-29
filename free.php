@@ -14,7 +14,7 @@ if (
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/animation/2023/03/24/18/16/18-16-28-807_512.gif" group-title="",UAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://youtube.livetivi.workers.dev?url=https://www.youtube.com/watch?v=f4-zHD8oIsw
+https://youtube.livetivi.workers.dev/?url=https://www.youtube.com/watch?v=f4-zHD8oIsw
 
 
 

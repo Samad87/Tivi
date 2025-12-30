@@ -15,7 +15,7 @@ if (
 
 
 #EXTINF:-1 group-title="" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png",t.me/ID0TT
-https://static.vecteezy.com/system/resources/previews/007/525/658/mp4/stay-tuned-text-word-gold-light-animation-free-video.mp4
+https://static.vecteezy.com/system/resources/previews/007/525/658/mp4/stay-tuned-text-word-gold-light-animation-free-video.m3u8
 
 #EXTINF:-1 group-title="" group-logo="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJmMnB1djl6Mno1MG90bndsczZoNXN0NGx5NXZnbHNjaTM2cGhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mWnDeIKilkwDcrM2VT/giphy.gif" tvg-logo="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJmMnB1djl6Mno1MG90bndsczZoNXN0NGx5NXZnbHNjaTM2cGhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mWnDeIKilkwDcrM2VT/giphy.gif",LIVE EVENT
 #EXTVLCOPT:http-referrer=https://xiaolin.live/

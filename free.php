@@ -49,12 +49,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 
-#EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
-#EXTINF:-1 tvg-id="tv3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="",📺 TV3 FHD
-#EXTVLCOPT:http-user-agent=Astro/1920*1080 (TV?Box Android; pelurudarat/bosku Build/1.0.5; ms; W4KH4JI);
-#EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
-#EXTVLCOPT:http-user-agent=Astro/1920*1080 (TV?Box Android; pelurudarat/bosku Build/1.0.5; ms; W4KH4JI);
-https://iptv.harimau-tv.my/tv3/stream.php?ch=1
+
 
 
 

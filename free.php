@@ -25,8 +25,8 @@ https://static.vecteezy.com/system/resources/previews/007/525/658/mp4/stay-tuned
 #EXTINF:-1 group-title="" group-logo="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJmMnB1djl6Mno1MG90bndsczZoNXN0NGx5NXZnbHNjaTM2cGhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mWnDeIKilkwDcrM2VT/giphy.gif" tvg-logo="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJmMnB1djl6Mno1MG90bndsczZoNXN0NGx5NXZnbHNjaTM2cGhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mWnDeIKilkwDcrM2VT/giphy.gif",LIVE EVENT
 #EXTVLCOPT:http-referrer=https://xiaolin.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://dl.dropboxusercontent.com/scl/fi/6fw9ub5kgp0t2bxr51r0a/event1.m3u8?rlkey=z4zpx72cdgho6mgcud7nvyokq&st=19kj6cae&dl=0p
-https://a1xs.vip/1100020
+https://dl.dropboxusercontent.com/scl/fi/6fw9ub5kgp0t2bxr51r0a/event1.m3u8?rlkey=z4zpx72cdgho6mgcud7nvyokq&st=19kj6cae&dl=0p
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/animation/2023/03/24/18/16/18-16-28-807_512.gif" group-title="",UAI

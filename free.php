@@ -666,14 +666,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337}
 #EXTINF:-1 tvg-id="822.astro" ch-number="822"  tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="",822 beIN Sports 3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
 
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 9; Shield TV Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c}
 #EXTINF:-1 tvg-id="823.astro"  ch-number="823" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="",823 SPOTV
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 
  
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 9; Shield TV Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36"}
@@ -681,6 +681,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7W1n2VPRSwJrJgLPiEZXfg", "kid":"Xv0m2lABNjtNb6SpyBKtEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="824.astro"  ch-number="824" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png" group-title="",824 SPOTV 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
+
+#EXTINF:-1 tvg-id="SPOTV.id"  ch-number="823" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="",823 SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+#EXTINF:-1 tvg-id="SPOTV2.id"  ch-number="824" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png" group-title="",824 SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
 
 #EXTINF:-1 tvg-id="6116" ch-number="825" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-title="",825 EuroSport
 #KODIPROP:inputstreamaddon=inputstream.adaptive

@@ -428,6 +428,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88}
 #EXTINF:-1 tvg-id="611.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png" group-title="", ceria
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
+https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=ceria
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash

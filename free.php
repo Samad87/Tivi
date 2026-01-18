@@ -39,7 +39,7 @@ https://dl.dropboxusercontent.com/scl/fi/yi4k05tckon970a3anp6g/event2.m3u8?rlkey
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/animation/2023/03/24/18/16/18-16-28-807_512.gif" group-title="",UAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://ytlive.cdnmts.org/direct?url=https://m.youtube.com/watch?v=TjrvFqhKabM&pp=uAQw
+https://ytlive.cdnmts.org/direct?url=https://m.youtube.com/watch?v=yA66B5dt9-A&pp=uAQw
 
 
 

@@ -13,14 +13,12 @@ if (
 #EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml, https://raw.githubusercontent.com/dbghelp/Test-EPG/refs/heads/main/test_epg.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/mana2.xml,https://raw.githubusercontent.com/dbghelp/Singtel-TV-EPG/refs/heads/main/singtel.xml,https://raw.githubusercontent.com/tv1973/xmltv_uk/refs/heads/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/walpak1/epg/refs/heads/gh-pages/singtel.xml,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml" refresh="1440"  " billed-msg=" FREE2026"
 
-#EXTINF:-1 tvg-id="AstroBadminton" tvg-name="badminton" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" ch-number="815",Astro Badminton 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g3KLRwGavbs3qjbtXylRvQ","kid":"b/DgQNVE7D8CJDhlmQ8MEA"}],"type":"temporary"} 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-#https://load.perfecttv.net/mpd/badminton/manifest.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonhd
-https://go.mal9fwkfa.workers.dev/code/badminton1.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d5249cb40505495494828f42c37087cb":"d59f6a7bed00bd5348355ab5b3ee6aa0" ,"c15541e4dde34c48a0d144a4b0ab7194":"ce82e3d81126183e5a262e320f6348b3"}
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Ria FHD
+#EXTVLCOPT:http-user-agent=com.astro.sookadongle/25.03.12 Dalvik/2.1.0 (Linux; U; Android 12; sooka-TV-v1 Build/STT5.220127.002)
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3Njg3MjEyMzcsImlzcyI6IlZSIiwiZXhwIjoxNzY4Nzc1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZmQ0MzkwYjMtODU0MC00ODA4LWIxN2YtNDg5MDFmMDMzZTdjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjEwMDQifQ.f0ImdKcdhG9SUmtDjiYIZxcivHesli9lWghGhMp8X3c"}
+https://l05.dp.sooka.my/1004/linear/index.mpd
 
 #EXTINF:-1 group-title="" group-logo="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJmMnB1djl6Mno1MG90bndsczZoNXN0NGx5NXZnbHNjaTM2cGhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mWnDeIKilkwDcrM2VT/giphy.gif" tvg-logo="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJmMnB1djl6Mno1MG90bndsczZoNXN0NGx5NXZnbHNjaTM2cGhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mWnDeIKilkwDcrM2VT/giphy.gif",LIVE EVENT 
 #EXTVLCOPT:http-referrer=https://xiaolin.live/

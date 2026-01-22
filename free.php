@@ -18,7 +18,8 @@ if (
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Ria FHD
 #EXTVLCOPT:http-user-agent=com.astro.sookadongle/25.03.12 Dalvik/2.1.0 (Linux; U; Android 12; sooka-TV-v1 Build/STT5.220127.002)
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3Njg4OTQwMzUsImlzcyI6IlZSIiwiZXhwIjoxNzY4OTQ4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMTVmMGNkN2QtOGVlNC00YTliLTlmNTgtZDQ4MDFmM2YwNmM5IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjEwMDQifQ.5YSNhksg9fLwNpUJ9sOaaQe1WieuoVNdBd2P0PFE-lk"}
-https://l05.dp.sooka.my/1004/linear/index.mpd
+#https://l05.dp.sooka.my/1004/linear/index.mpd
+http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41077202079/7412fh356/706.ts
 
 #EXTINF:-1 group-title="" group-logo="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJmMnB1djl6Mno1MG90bndsczZoNXN0NGx5NXZnbHNjaTM2cGhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mWnDeIKilkwDcrM2VT/giphy.gif" tvg-logo="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJmMnB1djl6Mno1MG90bndsczZoNXN0NGx5NXZnbHNjaTM2cGhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mWnDeIKilkwDcrM2VT/giphy.gif",LIVE EVENT 
 #EXTVLCOPT:http-referrer=https://xiaolin.live/

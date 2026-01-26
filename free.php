@@ -21,7 +21,7 @@ if (
 #https://l05.dp.sooka.my/1004/linear/index.mpd
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Ria FHD
-http://tv123.vvvv.ee/live.php/?ch=577de0da1155
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da" ,"6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}

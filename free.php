@@ -35,7 +35,7 @@ http://tv123.vvvv.ee/live.php/?ch=577de0da1155
 #KODIPROP:inputstream.adaptive.stream_headers={"Origin":"https://www.camel1.live","Referer":"https://www.camel1.live/"}
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://dl.dropboxusercontent.com/scl/fi/6fw9ub5kgp0t2bxr51r0a/event1.m3u8?rlkey=z4zpx72cdgho6mgcud7nvyokq&st=19kj6cae&dl=0p
+#https://dl.dropboxusercontent.com/scl/fi/6fw9ub5kgp0t2bxr51r0a/event1.m3u8?rlkey=z4zpx72cdgho6mgcud7nvyokq&st=19kj6cae&dl=0p
 
 
 
@@ -44,13 +44,7 @@ https://dl.dropboxusercontent.com/scl/fi/6fw9ub5kgp0t2bxr51r0a/event1.m3u8?rlkey
 #KODIPROP:inputstream.adaptive.stream_headers={"Origin":"https://www.camel1.live","Referer":"https://www.camel1.live/"}
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://dl.dropboxusercontent.com/scl/fi/yi4k05tckon970a3anp6g/event2.m3u8?rlkey=buffkfzw8g2zit98m9f9tmgi6&st=lc2zudfu&dl=0
-
-
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/animation/2023/03/24/18/16/18-16-28-807_512.gif" group-title="",UAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://ytlive.cdnmts.org/direct?url=https://m.youtube.com/watch?v=yA66B5dt9-A&pp=uAQw
+#https://dl.dropboxusercontent.com/scl/fi/yi4k05tckon970a3anp6g/event2.m3u8?rlkey=buffkfzw8g2zit98m9f9tmgi6&st=lc2zudfu&dl=0
 
 
 

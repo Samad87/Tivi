@@ -47,6 +47,12 @@ http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41067462089/188da255/706.ts
 #https://dl.dropboxusercontent.com/scl/fi/yi4k05tckon970a3anp6g/event2.m3u8?rlkey=buffkfzw8g2zit98m9f9tmgi6&st=lc2zudfu&dl=0
 
 
+#EXTINF:-1 tvg-id="128.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=160&updatedTime=0&dt=Web" group-logo="" group-title="Unifi TV", DEGUP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"whs2mRspkoqA3AoUa+6skA","kid":"oWI7dm5LSOuIzqKeHDCcxw"}],"type":"temporary"}
+https://unifi.whacat.tech/DEGUP
 
 
 ##############################################################################Astro####################################################################################
